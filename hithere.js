@@ -14,7 +14,7 @@ with (require('./resumate')) {
 
 		my('drive').is('learning'),
 
-		my((node > 1000000) + ' nodejitsu ').is('exciting'),
+		my((node > 1000000) + ' background ').is('helpful'),
 
 		bye('thanks for reading')
 
